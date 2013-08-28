@@ -1,0 +1,5 @@
+[twitter_login]
+consumer_key = KEY_GOES_HERE
+consumer_secret = SECRET_GOES_HERE
+access_token = TOKEN_GOES_HERE
+access_secret = SECRET_GOES_HERE
